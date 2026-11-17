@@ -1,0 +1,76 @@
+id,date,time,crime_type,city,state,location_description,victim_age,victim_gender,victim_race
+1,8/28/2025,4:55,Vandalism,Tyre,Lebanon,Al Mina Archaeological Site,27,Female,Other
+2,2/1/2025,2:15,Drug Possession,Sidon,Lebanon,Khan El Franj,43,Female,White
+3,7/28/2026,7:35,Arson,Zahle,Lebanon,Ksara Roundabout,49,Female,White
+4,8/10/2025,6:25,Fraud,Jounieh,Lebanon,ATCL Entrance,27,Male,White
+5,10/26/2025,12:05,Theft,Bcharre,Lebanon,Bcharre Main Square,84,Male,Hispanic
+6,5/20/2025,9:05,Assault,Bcharre,Lebanon,Cedars of God Entrance,43,Female,Black
+7,1/6/2026,6:50,Burglary,Bourj Hammoud,Lebanon,Main Market Street,48,Female,Asian
+8,8/1/2025,5:35,Arson,Sidon,Lebanon,Khan El Franj,62,Male,Other
+9,7/14/2025,7:00,Arson,Jeita,Lebanon,Jeita Grotto Parking,54,Male,White
+10,8/14/2026,12:50,Robbery,Beit Meri,Lebanon,Hotel Al Bustan Entrance,72,Male,White
+11,2/28/2026,11:15,Pickpocketing,Jeita,Lebanon,Nahr El Kalb Bridge,31,Female,White
+12,2/7/2026,21:30,Burglary,Tripoli,Lebanon,Mina Corniche,22,Male,Hispanic
+13,3/5/2025,21:40,Vehicle Theft,Bourj Hammoud,Lebanon,Main Market Street,48,Female,White
+14,8/22/2025,23:55,Burglary,Aley,Lebanon,Aley Main Street,47,Unknown,Asian
+15,2/16/2026,19:15,Arson,Ghazir,Lebanon,Ghazir Highway Exit,33,Male,White
+16,2/20/2026,0:05,Pickpocketing,Ghazir,Lebanon,Ghazir Highway Exit,60,Female,Other
+17,6/13/2025,2:55,Theft,Aley,Lebanon,Aley Souk,76,Female,Unknown
+18,8/4/2026,17:10,Burglary,Jeita,Lebanon,Jeita Grotto Parking,47,Female,Hispanic
+19,6/9/2026,12:50,Robbery,Zahle,Lebanon,Ksara Roundabout,61,Male,Black
+20,7/25/2025,0:45,Robbery,Tyre,Lebanon,Tyre Hippodrome,84,Male,White
+21,2/20/2025,10:05,Robbery,Sidon,Lebanon,Sidon Sea Castle,79,Male,Asian
+22,6/19/2026,7:35,Burglary,Zahle,Lebanon,Ksara Roundabout,66,Male,White
+23,3/26/2026,23:00,Drug Possession,Dekwaneh,Lebanon,Mkalles Industrial Zone,26,Male,Asian
+24,11/23/2025,4:30,Robbery,Tyre,Lebanon,Tyre Hippodrome,37,Male,White
+25,3/17/2025,20:40,Vehicle Theft,Sidon,Lebanon,East Boulevard,15,Unknown,Other
+27,12/29/2025,22:55,Domestic Disturbance,Zgharta,Lebanon,Zgharta Boulevard,85,Female,Black
+28,3/2/2025,23:25,Robbery,Zahle,Lebanon,Saydet Zahle Boulevard,21,Male,Black
+29,10/29/2025,5:05,Theft,Ghazir,Lebanon,Ghazir Highway Exit,22,Female,White
+30,11/21/2025,19:05,Pickpocketing,Tyre,Lebanon,Tyre Hippodrome,67,Female,Hispanic
+31,5/18/2026,7:20,Robbery,Batroun,Lebanon,Sea Road Batroun,64,Male,Hispanic
+32,8/27/2025,19:45,Assault,Bourj Hammoud,Lebanon,Main Market Street,26,Male,White
+33,6/10/2025,11:20,Fraud,Nabatieh,Lebanon,Nabatieh Souk,34,Male,Black
+34,10/2/2025,21:40,Arson,Aley,Lebanon,Aley Park,52,Other,White
+35,5/14/2025,8:20,Assault,Byblos,Lebanon,Byblos Citadel Entrance,40,Female,White
+36,6/4/2025,2:50,Domestic Disturbance,Nabatieh,Lebanon,Nabatieh Main Square,68,Female,White
+37,8/5/2025,23:35,Arson,Batroun,Lebanon,Batroun Old Souk,84,Female,Hispanic
+38,10/25/2025,11:45,Burglary,Tyre,Lebanon,Al Mina Archaeological Site,84,Male,White
+39,10/18/2025,21:15,Theft,Aley,Lebanon,Aley Main Street,27,Male,Hispanic
+40,6/23/2025,13:00,Robbery,Dekwaneh,Lebanon,Dekwaneh Highway,36,Female,White
+41,5/17/2025,12:00,Vandalism,Dekwaneh,Lebanon,Dekwaneh Highway,74,Male,Other
+42,8/19/2025,0:50,Vandalism,Bourj Hammoud,Lebanon,Main Market Street,38,Male,White
+43,8/12/2026,12:50,Fraud,Sidon,Lebanon,Corniche,82,Male,White
+44,6/4/2025,3:45,Pickpocketing,Nabatieh,Lebanon,Nabatieh Souk,69,Male,Asian
+45,1/28/2026,8:00,Drug Possession,Dekwaneh,Lebanon,Dekwaneh Highway,69,Male,Other
+46,9/13/2025,21:25,Fraud,Jeita,Lebanon,Jeita Grotto Parking,54,Female,White
+47,7/5/2026,10:30,Vandalism,Aley,Lebanon,Aley Park,51,Female,White
+48,3/22/2026,12:40,Pickpocketing,Zgharta,Lebanon,Ehden Main Square,14,Male,White
+49,3/29/2026,21:15,Domestic Disturbance,Beit Meri,Lebanon,Hotel Al Bustan Entrance,79,Female,Other
+50,3/11/2026,2:15,Vandalism,Jounieh,Lebanon,Jounieh Marina,53,Male,White
+51,10/8/2025,14:30,Robbery,Beirut,Lebanon,Hamra Street,38,Female,Black
+52,12/4/2025,3:30,Burglary,Zgharta,Lebanon,Ehden Main Square,42,Male,Unknown
+53,2/17/2026,3:35,Theft,Ghazir,Lebanon,Notre Dame University (NDU) Gate,31,Female,Asian
+54,7/26/2026,13:40,Domestic Disturbance,Jeita,Lebanon,Nahr El Kalb Bridge,71,Female,Asian
+55,9/25/2025,16:35,Vandalism,Choueifat,Lebanon,Airport Road Junction,44,Male,White
+56,12/1/2025,17:05,Vandalism,Aley,Lebanon,Aley Souk,31,Male,Black
+57,2/25/2026,10:40,Assault,Byblos,Lebanon,Byblos Port,73,Male,White
+58,1/2/2026,18:30,Pickpocketing,Dekwaneh,Lebanon,Mkalles Industrial Zone,75,Male,Black
+59,1/27/2026,15:15,Vehicle Theft,Zgharta,Lebanon,Zgharta Boulevard,48,Male,White
+60,10/19/2025,14:10,Arson,Batroun,Lebanon,Phoenician Wall,82,Male,Black
+61,11/4/2025,14:28,Theft,Jeita,Lebanon,Jeita,1,Other,Black
+62,11/4/2025,14:29,Theft,Jeita,Lebanon,Jeita,2,Female,Black
+63,11/4/2025,14:31,Theft,Jeita,Lebanon,Jeita,3,Female,White
+64,11/4/2025,14:32,Vandalism,Jeita,Lebanon,Jeita,4,Male,White
+65,11/4/2025,14:33,Vehicle Theft,Jeita,Lebanon,Jeita,5,Female,Black
+66,11/4/2025,14:34,Domestic Disturbance,Jeita,Lebanon,Jeita,6,Female,Black
+67,11/4/2025,14:43,Robbery,Jeita,Lebanon,Jeita,21,Male,Unknown
+68,11/1/2025,13:51,Vehicle Theft,Jeita,Lebanon,Jeita,21,Male,Black
+69,11/4/2025,15:06,Assault,Jeita,Lebanon,Jeita,21,Male,White
+70,2025-11-05,22:22,Vandalism,Jeita,Lebanon,Jeita,21,Male,Black
+71,2025-11-06,23:13,Robbery,Jeita,Lebanon,Jeita,22,Male,Black
+72,2025-11-10,10:11,Assault,Jeita,Lebanon,Jeita,11,Male,White
+73,2025-11-10,10:53,Vandalism,Zahle,Lebanon,Zahle,11,Male,Black
+74,2025-11-10,10:57,Robbery,Jounieh,Lebanon,Jounieh,12,Female,White
+75,2025-11-10,11:13,Vehicle Theft,Zahle,Lebanon,Zahle,14,Other,Black
+76,2025-11-10,12:44,Assault,Bourj Hammoud,Lebanon,Bourj Hammoud,22,Female,Black

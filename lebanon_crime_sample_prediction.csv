@@ -1,0 +1,69 @@
+id,date,time,crime_type,city,state,location_description,victim_age,victim_gender,victim_race,weapon,Lighting Condition,Weather
+1,8/28/2025,4:55,Vandalism,Tyre,Lebanon,Al Mina Archaeological Site,27,Female,Other,BLUNT OBJECT (BAT/CLUB),NIGHT (UNLIT),RAIN
+2,2/1/2025,2:15,Drug Possession,Sidon,Lebanon,Khan El Franj,43,Female,White,HANDGUN,NIGHT (LIT),FOG
+3,7/28/2026,7:35,Arson,Zahle,Lebanon,Ksara Roundabout,49,Female,White,EXPLOSIVE/FIRE,NIGHT (UNLIT),CLOUDY
+4,8/10/2025,6:25,Fraud,Jounieh,Lebanon,ATCL Entrance,27,Male,White,UNKNOWN,NIGHT (LIT),RAIN
+5,10/26/2025,12:05,Theft,Bcharre,Lebanon,Bcharre Main Square,84,Male,Hispanic,CUTTING INSTRUMENT,DAYLIGHT,CLEAR
+6,5/20/2025,9:05,Assault,Bcharre,Lebanon,Cedars of God Entrance,43,Female,Black,STRONG-ARM (HANDS/FISTS),NIGHT (LIT),FOG
+7,1/6/2026,6:50,Burglary,Bourj Hammoud,Lebanon,Main Market Street,48,Female,Asian,KNIFE,NIGHT (UNLIT),RAIN
+8,8/1/2025,5:35,Arson,Sidon,Lebanon,Khan El Franj,62,Male,Other,EXPLOSIVE/FIRE,NIGHT (UNLIT),CLOUDY
+9,7/14/2025,7:00,Arson,Jeita,Lebanon,Jeita Grotto Parking,54,Male,White,EXPLOSIVE/FIRE,NIGHT (UNLIT),CLOUDY
+10,8/14/2026,12:50,Robbery,Beit Meri,Lebanon,Hotel Al Bustan Entrance,72,Male,White,HANDGUN,NIGHT (LIT),STORM
+11,2/28/2026,11:15,Pickpocketing,Jeita,Lebanon,Nahr El Kalb Bridge,31,Female,White,CUTTING INSTRUMENT,DUSK/DAWN,FOG
+12,2/7/2026,21:30,Burglary,Tripoli,Lebanon,Mina Corniche,22,Male,Hispanic,KNIFE,NIGHT (LIT),WINDY
+13,3/5/2025,21:40,Vehicle Theft,Bourj Hammoud,Lebanon,Main Market Street,48,Female,White,VEHICLE,NIGHT (LIT),RAIN
+14,8/22/2025,23:55,Burglary,Aley,Lebanon,Aley Main Street,47,Unknown,Asian,KNIFE,DUSK/DAWN,CLEAR
+15,2/16/2026,19:15,Arson,Ghazir,Lebanon,Ghazir Highway Exit,33,Male,White,EXPLOSIVE/FIRE,NIGHT (UNLIT),FOG
+16,2/20/2026,0:05,Pickpocketing,Ghazir,Lebanon,Ghazir Highway Exit,60,Female,Other,CUTTING INSTRUMENT,NIGHT (LIT),STORM
+17,6/13/2025,2:55,Theft,Aley,Lebanon,Aley Souk,76,Female,Unknown,CUTTING INSTRUMENT,DUSK/DAWN,FOG
+18,8/4/2026,17:10,Burglary,Jeita,Lebanon,Jeita Grotto Parking,47,Female,Hispanic,KNIFE,DUSK/DAWN,CLEAR
+19,6/9/2026,12:50,Robbery,Zahle,Lebanon,Ksara Roundabout,61,Male,Black,HANDGUN,DAYLIGHT,CLOUDY
+20,7/25/2025,0:45,Robbery,Tyre,Lebanon,Tyre Hippodrome,84,Male,White,HANDGUN,NIGHT (LIT),FOG
+21,2/20/2025,10:05,Robbery,Sidon,Lebanon,Sidon Sea Castle,79,Male,Asian,HANDGUN,DUSK/DAWN,FOG
+22,6/19/2026,7:35,Burglary,Zahle,Lebanon,Ksara Roundabout,66,Male,White,KNIFE,NIGHT (UNLIT),RAIN
+23,3/26/2026,23:00,Drug Possession,Dekwaneh,Lebanon,Mkalles Industrial Zone,26,Male,Asian,HANDGUN,DUSK/DAWN,FOG
+24,11/23/2025,4:30,Robbery,Tyre,Lebanon,Tyre Hippodrome,37,Male,White,HANDGUN,DAYLIGHT,WINDY
+25,3/17/2025,20:40,Vehicle Theft,Sidon,Lebanon,East Boulevard,15,Unknown,Other,VEHICLE,NIGHT (LIT),RAIN
+27,12/29/2025,22:55,Domestic Disturbance,Zgharta,Lebanon,Zgharta Boulevard,85,Female,Black,STRONG-ARM (HANDS/FISTS),DUSK/DAWN,WINDY
+28,3/2/2025,23:25,Robbery,Zahle,Lebanon,Saydet Zahle Boulevard,21,Male,Black,HANDGUN,DUSK/DAWN,CLOUDY
+29,10/29/2025,5:05,Theft,Ghazir,Lebanon,Ghazir Highway Exit,22,Female,White,CUTTING INSTRUMENT,DUSK/DAWN,CLOUDY
+30,11/21/2025,19:05,Pickpocketing,Tyre,Lebanon,Tyre Hippodrome,67,Female,Hispanic,CUTTING INSTRUMENT,NIGHT (LIT),FOG
+31,5/18/2026,7:20,Robbery,Batroun,Lebanon,Sea Road Batroun,64,Male,Hispanic,HANDGUN,DUSK/DAWN,STORM
+32,8/27/2025,19:45,Assault,Bourj Hammoud,Lebanon,Main Market Street,26,Male,White,STRONG-ARM (HANDS/FISTS),NIGHT (UNLIT),CLEAR
+33,6/10/2025,11:20,Fraud,Nabatieh,Lebanon,Nabatieh Souk,34,Male,Black,UNKNOWN,DUSK/DAWN,FOG
+34,10/2/2025,21:40,Arson,Aley,Lebanon,Aley Park,52,Other,White,EXPLOSIVE/FIRE,NIGHT (UNLIT),CLOUDY
+35,5/14/2025,8:20,Assault,Byblos,Lebanon,Byblos Citadel Entrance,40,Female,White,STRONG-ARM (HANDS/FISTS),NIGHT (UNLIT),FOG
+36,6/4/2025,2:50,Domestic Disturbance,Nabatieh,Lebanon,Nabatieh Main Square,68,Female,White,STRONG-ARM (HANDS/FISTS),NIGHT (LIT),CLEAR
+37,8/5/2025,23:35,Arson,Batroun,Lebanon,Batroun Old Souk,84,Female,Hispanic,EXPLOSIVE/FIRE,DUSK/DAWN,FOG
+38,10/25/2025,11:45,Burglary,Tyre,Lebanon,Al Mina Archaeological Site,84,Male,White,KNIFE,NIGHT (LIT),FOG
+39,10/18/2025,21:15,Theft,Aley,Lebanon,Aley Main Street,27,Male,Hispanic,CUTTING INSTRUMENT,NIGHT (UNLIT),FOG
+40,6/23/2025,13:00,Robbery,Dekwaneh,Lebanon,Dekwaneh Highway,36,Female,White,HANDGUN,NIGHT (UNLIT),STORM
+41,5/17/2025,12:00,Vandalism,Dekwaneh,Lebanon,Dekwaneh Highway,74,Male,Other,BLUNT OBJECT (BAT/CLUB),DAYLIGHT,RAIN
+42,8/19/2025,0:50,Vandalism,Bourj Hammoud,Lebanon,Main Market Street,38,Male,White,BLUNT OBJECT (BAT/CLUB),DAYLIGHT,FOG
+43,8/12/2026,12:50,Fraud,Sidon,Lebanon,Corniche,82,Male,White,UNKNOWN,DUSK/DAWN,CLOUDY
+44,6/4/2025,3:45,Pickpocketing,Nabatieh,Lebanon,Nabatieh Souk,69,Male,Asian,CUTTING INSTRUMENT,DUSK/DAWN,FOG
+45,1/28/2026,8:00,Drug Possession,Dekwaneh,Lebanon,Dekwaneh Highway,69,Male,Other,HANDGUN,NIGHT (LIT),STORM
+46,9/13/2025,21:25,Fraud,Jeita,Lebanon,Jeita Grotto Parking,54,Female,White,UNKNOWN,DAYLIGHT,RAIN
+47,7/5/2026,10:30,Vandalism,Aley,Lebanon,Aley Park,51,Female,White,BLUNT OBJECT (BAT/CLUB),DUSK/DAWN,STORM
+48,3/22/2026,12:40,Pickpocketing,Zgharta,Lebanon,Ehden Main Square,14,Male,White,CUTTING INSTRUMENT,NIGHT (UNLIT),STORM
+49,3/29/2026,21:15,Domestic Disturbance,Beit Meri,Lebanon,Hotel Al Bustan Entrance,79,Female,Other,STRONG-ARM (HANDS/FISTS),NIGHT (UNLIT),CLEAR
+50,3/11/2026,2:15,Vandalism,Jounieh,Lebanon,Jounieh Marina,53,Male,White,BLUNT OBJECT (BAT/CLUB),DAYLIGHT,CLEAR
+51,10/8/2025,14:30,Robbery,Beirut,Lebanon,Hamra Street,38,Female,Black,HANDGUN,DUSK/DAWN,CLOUDY
+52,12/4/2025,3:30,Burglary,Zgharta,Lebanon,Ehden Main Square,42,Male,Unknown,KNIFE,DUSK/DAWN,CLEAR
+53,2/17/2026,3:35,Theft,Ghazir,Lebanon,Notre Dame University (NDU) Gate,31,Female,Asian,CUTTING INSTRUMENT,NIGHT (LIT),RAIN
+54,7/26/2026,13:40,Domestic Disturbance,Jeita,Lebanon,Nahr El Kalb Bridge,71,Female,Asian,STRONG-ARM (HANDS/FISTS),NIGHT (UNLIT),FOG
+55,9/25/2025,16:35,Vandalism,Choueifat,Lebanon,Airport Road Junction,44,Male,White,BLUNT OBJECT (BAT/CLUB),NIGHT (LIT),STORM
+56,12/1/2025,17:05,Vandalism,Aley,Lebanon,Aley Souk,31,Male,Black,BLUNT OBJECT (BAT/CLUB),NIGHT (LIT),RAIN
+57,2/25/2026,10:40,Assault,Byblos,Lebanon,Byblos Port,73,Male,White,STRONG-ARM (HANDS/FISTS),NIGHT (LIT),WINDY
+58,1/2/2026,18:30,Pickpocketing,Dekwaneh,Lebanon,Mkalles Industrial Zone,75,Male,Black,CUTTING INSTRUMENT,DUSK/DAWN,STORM
+59,1/27/2026,15:15,Vehicle Theft,Zgharta,Lebanon,Zgharta Boulevard,48,Male,White,VEHICLE,NIGHT (LIT),CLEAR
+60,10/19/2025,14:10,Arson,Batroun,Lebanon,Phoenician Wall,82,Male,Black,EXPLOSIVE/FIRE,DAYLIGHT,FOG
+61,11/4/2025,14:28,Theft,Jeita,Lebanon,Jeita,1,Other,Black,CUTTING INSTRUMENT,NIGHT (LIT),STORM
+62,11/4/2025,14:29,Theft,Jeita,Lebanon,Jeita,2,Female,Black,CUTTING INSTRUMENT,NIGHT (UNLIT),STORM
+63,11/4/2025,14:31,Theft,Jeita,Lebanon,Jeita,3,Female,White,CUTTING INSTRUMENT,DAYLIGHT,STORM
+64,11/4/2025,14:32,Vandalism,Jeita,Lebanon,Jeita,4,Male,White,BLUNT OBJECT (BAT/CLUB),DAYLIGHT,STORM
+65,11/4/2025,14:33,Vehicle Theft,Jeita,Lebanon,Jeita,5,Female,Black,VEHICLE,DAYLIGHT,CLEAR
+66,11/4/2025,14:34,Domestic Disturbance,Jeita,Lebanon,Jeita,6,Female,Black,STRONG-ARM (HANDS/FISTS),DAYLIGHT,STORM
+67,11/4/2025,14:43,Robbery,Jeita,Lebanon,Jeita,21,Male,Unknown,HANDGUN,DUSK/DAWN,FOG
+68,11/1/2025,13:51,Vehicle Theft,Jeita,Lebanon,Jeita,21,Male,Black,VEHICLE,DUSK/DAWN,CLOUDY
+69,11/4/2025,15:06,Assault,Jeita,Lebanon,Jeita,21,Male,White,STRONG-ARM (HANDS/FISTS),DAYLIGHT,STORM

@@ -1,0 +1,8 @@
+id,email,name,password,guardians
+1,joey.a@gmail.com,Joey,t123,"Bay, Stefan, John"
+2,bay.b@gmail.com,Bay,ggg456,John
+3,stefan@gmail.com,Stefan,ste444,"Joey, Bay"
+4,taylor@hotmail.com,John,tay444,"Joey, Bay, Stefan"
+5,aa@gmail.com,Anna,123,John
+6,mm@gmail.com,Mike,123,"John, Joey, Stefan, ahmad, anna"
+7,ahmad.audi@gmail.com,Ahmad,123,"Mike, Anna, John"
